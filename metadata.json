@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Magic Eraser AI",
+  "description": "A powerful AI tool to remove watermarks from images and reconstruct videos using Google Gemini models.",
+  "requestFramePermissions": []
+}
